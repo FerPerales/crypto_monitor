@@ -7,6 +7,7 @@
       <div id="menu">
         <ul>
           <li class="current_page_item"><a href="/" accesskey="1" title="">INICIO</a></li>
+          <li class="current_page_item"><a href="/bussines" accesskey="1" title="">NEGOCIOS</a></li>
         </ul>
       </div>
     </div>
